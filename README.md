@@ -29,8 +29,3 @@ El programa muestra un menú principal con las siguientes opciones:
 Cada opción llama a una función diferente encargada de realizar la tarea correspondiente.
 
 ---
-
----
-
-## 💻 Ejemplo de ejecución
-
